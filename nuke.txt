@@ -1,0 +1,5 @@
+--this script has NO key!
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/TheALLHACKLoader/main/NukeLoader"))()
+
+970887544c76862a4b25926279a37c01
